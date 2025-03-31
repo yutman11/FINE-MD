@@ -99,7 +99,7 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF FINE-MD 
-- [Lord Malvin ](https://github.com/Yutman11)
+[69 godd ](https://github.com/Yutman11)
 - Creater and Owner Of FINE-MD
 
 > FINE-MD Helper
