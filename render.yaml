@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: MALVIN
+    name: Yutman
     env: docker
-    region: Frankfurt
+    region: Kenya
     plan: free
