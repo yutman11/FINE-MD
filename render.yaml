@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: Yutman
-    env: docker
-    region: Kenya
-    plan: free
